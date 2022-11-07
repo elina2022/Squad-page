@@ -1,5 +1,5 @@
 # Titel
-Squadpage
+## Squadpage ##
 
 ## Beschrijving
 Dit project is gemaakt om alle visitekaartjes van squad c vanaf 1 pagina te kunnen bezoeken. Het plaatje is een svg van ons eigen ontwerp. Door op de pijltjes te klikken kom je telkens bij een nieuw groepje. Op de andere monitor hebben we een 'matrix rain' toegepast waarna we bedachten er ook een matrix muziekje achter te zetten.
